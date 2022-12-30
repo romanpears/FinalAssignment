@@ -1,0 +1,2 @@
+# Below is the link of the Jupyter notebook of the final assignment
+https://eu-de.dataplatform.cloud.ibm.com/analytics/notebooks/v2/bdc4a91c-994f-476c-9747-c1e3c786a291/view?access_token=02f18dce5c9031074ec3e9bfc97dbbc08cad7da7e4b86f080c9b3d1678102c6e
